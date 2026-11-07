@@ -1,5 +1,5 @@
 # J. Roberto Oaxaca Foundation
 
-Sitio oficial · jrobertooaxacafoundation.org
+Sitio oficial · jrobertooaxaca.org
 
 Website design and code © Sunburnt.
